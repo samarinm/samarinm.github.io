@@ -102,30 +102,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Maxim Samarin"
+  avatar           : "/assets/images/maxim.png"
+  bio              : "Machine Learning Researcher"
+  location         : "Zurich, Switzerland"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:samarinm17@gmail.com"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/maxim-samarin-40b99a10a"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/samarinm"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square ai-fw"
+      url: "https://scholar.google.com/citations?user=uPenEGcAAAAJ&hl=en"
 
 # Site Footer
 footer:
