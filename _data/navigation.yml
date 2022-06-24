@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /_pages/publications.html
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
