@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "About"
+title                    : "Maxim Samarin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Maxim Samarin"
@@ -112,13 +112,13 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:samarinm17@gmail.com"
     - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin-square"
+      icon: "fa-regular fa-link-horizontal"
       url: "https://www.linkedin.com/in/maxim-samarin-40b99a10a"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samarinm"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-fw"
+      icon: "fa-thin fa-building-columns"
       url: "https://scholar.google.com/citations?user=uPenEGcAAAAJ&hl=en"
 
 # Site Footer
