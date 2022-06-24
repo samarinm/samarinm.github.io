@@ -112,13 +112,13 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:samarinm17@gmail.com"
     - label: "LinkedIn"
-      icon: "fa-regular fa-link-horizontal"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/maxim-samarin-40b99a10a"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samarinm"
     - label: "Google Scholar"
-      icon: "fa-thin fa-building-columns"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=uPenEGcAAAAJ&hl=en"
 
 # Site Footer
