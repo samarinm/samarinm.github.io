@@ -4,6 +4,8 @@ main:
     url: /outreach/
   - title: "Publications"
     url: /publications/
+  - title: "Talks"
+    url: /talks/
   - title: "CV"
     url: /cv/
   # - title: "About"
