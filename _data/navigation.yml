@@ -1,13 +1,13 @@
 # main links
-main:
-  - title: "Outreach"
-    url: /outreach/
+main:  
+  - title: "CV"
+    url: /cv/
   - title: "Publications"
     url: /publications/
   - title: "Talks"
     url: /talks/
-  - title: "CV"
-    url: /cv/
+  - title: "Outreach"
+    url: /outreach/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
