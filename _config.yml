@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Maxim Samarin"
+  name             : "Maxim Samarin"
   avatar           : "/assets/images/maxim.png"
-  bio              : "Expert in Machine Learning / Deep Learning"
+  bio              : "PhD in Machine Learning / Deep Learning"
   location         : "Zurich, Switzerland"
   email            :
   links:
