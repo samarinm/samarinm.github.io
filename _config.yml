@@ -122,7 +122,7 @@ author:
       url: "https://scholar.google.com/citations?user=uPenEGcAAAAJ&hl=en"
     - label: " "
       icon: " "
-      url: "fas fa-fw fa-heart"
+      url: "fas fa-heart"
     - label: "Skills: Python, C / C++, bash, SLURM, TensorFlow, PyTorch, JAX, CUDA"
       icon: " "
       url: "https://samarinm.github.io/cv/"
