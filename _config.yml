@@ -120,6 +120,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=uPenEGcAAAAJ&hl=en"
+    - label: "Skills: Python"
+      icon: " "
+      url: "https://samarinm.github.io/cv/"
 
 # Site Footer
 footer:
